@@ -45,7 +45,23 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Gmg6JydW3nQI3S6DmiByn2JMXvDsu-2WuGDKSQpm0A&s=10" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_6OUL6lVhu-l2rjtwwKjoMnwSrnUr5XzTYMzO3yuqw&s=10" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mxgKaGUIcoTtTKL3WMAoyj4EWwdRjYYjcsXPKFjiHw&s=10" 
 />
 <img 
     align="left" 
@@ -55,26 +71,3 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
