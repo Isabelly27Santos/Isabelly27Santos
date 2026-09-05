@@ -1,95 +1,182 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:c026d3&height=240&section=header&text=Isabelly%20Santos&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Isabelly Santos banner"/>
-</div>
+# 💗 Hi! I'm Isabelly Santos
 
-<div align="center">
+**`Desenvolvedora FullStack`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ec4899&center=true&vCenter=true&width=640&lines=Learning%20in%20public;Turning%20coursework%20into%20projects)](https://git.io/typing-svg)
+Sou estudante de Engenharia de Software na Unicesumar EAD e estou construindo minha jornada na área de tecnologia com o objetivo de me tornar uma desenvolvedora Full Stack.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://isabelly27js) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:isabelly27js@gmail.com)
+Atualmente, estou aprofundando meus conhecimentos em HTML5, CSS3, JavaScript, MySQL e C, desenvolvendo projetos e colocando em prática todos os dias os conceitos que venho aprendendo.
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-ec4899?style=flat-square)
+Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é realizar minha transição para a área de TI, atuando como desenvolvedora Front-end e Back-end, e continuar evoluindo constantemente como profissional.
 
-</div>
+✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
-### About
-
-Estou aprendendo construindo e compartilhando projetos, além de explorar as ferramentas que moldam as equipes de software modernas.
-
-- ◎ **Education** · Unicesumar EAD
-- ⟳ **Learning** · HTML5, CSS3, JavaScript, C, MySQL.
-- ✦ **Fun fact** · Aprender linguagens para mim é um lazer 😄
-
-### Featured Projects
-
-- [Site 1](https://sssss@git.com) — ndjfnajdoajdnsajnfidakklsamdksla
-
-- [Site 2](https://sssss@git.com) — fdsgdsgsgs
-
-### Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,cs&theme=dark" alt="Languages"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="DevOps & Cloud"/>
-
-### Languages
-- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Isabelly27Santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Isabelly Santos stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelly27Santos&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Isabelly Santos top languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Isabelly27Santos&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Isabelly27Santos&theme=radical&column=6&no-frame=true&margin-w=8" alt="Isabelly Santos trophies"/>
-
-</div>
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isabelly27Santos&theme=redical&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=Isabelly27Santos&theme=redical&hide_border=true&area=true)
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isabelly27Santos/Isabelly27Santos/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Isabelly27Santos/Isabelly27Santos/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> Requires GitHub Actions setup
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-<div align="center">
+### 🤖 Linguagens e Tecnologias
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Isabelly27Santos">github.com/Isabelly27Santos</a></sub>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:c026d3&height=120&section=footer" width="100%" alt="Footer wave"/>
+<br/>
+<br/>
 
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
