@@ -45,7 +45,8 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_6OUL6lVhu-l2rjtwwKjoMnwSrnUr5XzTYMzO3yuqw&s=10" 
+    src="https://i.pinimg.com/736x/2d/5f/71/2d5f715c0d252e7c4e9c3727931bf710.jpg"
+    
 />
 <img 
     align="left" 
@@ -61,7 +62,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mxgKaGUIcoTtTKL3WMAoyj4EWwdRjYYjcsXPKFjiHw&s=10" 
+    src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" 
 />
 <img 
     align="left" 
