@@ -11,7 +11,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 ✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
 ### 👩🏻‍💻 Linguagens e Tecnologias
-<div style="display: inline-block;"><br>
+<div style="display: inline-block;">
     <img
         align="left"
         alt="HTML"
@@ -72,7 +72,6 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 <br>
 
 ##
-
 <div> 
   <a href="https://www.instagram.com/bel.santosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelly27js@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
