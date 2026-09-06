@@ -10,9 +10,6 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 
 ✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellyssantos/)
----
-
 ### 👩🏻‍💻 Linguagens e Tecnologias
 
 <img 
@@ -46,6 +43,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     width="40px" 
     style="padding-right: 10px;" 
     src="https://i.pinimg.com/736x/2d/5f/71/2d5f715c0d252e7c4e9c3727931bf710.jpg"
+    
 />
 <img 
     align="left" 
@@ -71,3 +69,11 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+##
+
+<div> 
+  <a href="https://www.instagram.com/bel.santosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabelly27js@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabellyssantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
