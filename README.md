@@ -46,7 +46,6 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     width="40px" 
     style="padding-right: 10px;" 
     src="https://i.pinimg.com/736x/2d/5f/71/2d5f715c0d252e7c4e9c3727931bf710.jpg"
-    
 />
 <img 
     align="left" 
