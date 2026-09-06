@@ -13,13 +13,13 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabellyssantos/)
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👩🏻‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -27,7 +27,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -35,7 +35,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -43,15 +43,16 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://i.pinimg.com/736x/2d/5f/71/2d5f715c0d252e7c4e9c3727931bf710.jpg"
+    
 />
 <img 
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" 
 />
@@ -59,7 +60,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" 
 />
@@ -67,7 +68,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
