@@ -71,7 +71,9 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
     />
 </div>
 <br>
+
 ##
+
 <br>
 <div> 
   <a href="https://www.instagram.com/bel.santosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
