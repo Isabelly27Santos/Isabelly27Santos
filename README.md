@@ -8,9 +8,9 @@ Atualmente, estou aprofundando meus conhecimentos em HTML5, CSS3, JavaScript, My
 
 Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é realizar minha transição para a área de TI, atuando como desenvolvedora Front-end e Back-end, e continuar evoluindo constantemente como profissional.
 
+<br>
 
-
-### Clique aqui e acesse a <a href="https://isabelly27santos.github.io/HTML-CSS/Minha-Pagina/index.html" target="_blank">Minha Página</a> ter ver mais meus principais projetos!
+ Clique aqui e acesse a <a href="https://isabelly27santos.github.io/HTML-CSS/Minha-Pagina/index.html" target="_blank">Minha Página</a> para ver meus principais projetos!
 
 ✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
