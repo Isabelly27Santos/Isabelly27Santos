@@ -14,6 +14,11 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 
 ✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="imagem.png"  />
+</div>
+
+
 ### 👩🏻‍💻 Linguagens e Tecnologias
 <div style="display: inline-block;">
     <img
@@ -83,6 +88,8 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
   
 </div>
 
+<br>
+<br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isabelly27Santos/Isabelly27Santos/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -90,10 +97,3 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Isabelly27Santos/Isabelly27Santos/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="imagem.png"  />
-</div>
-
-###
