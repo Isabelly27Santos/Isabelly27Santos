@@ -88,10 +88,6 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 
 <br>
 <br>
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Isabelly27Santos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 <br>
 
