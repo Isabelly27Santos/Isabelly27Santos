@@ -93,7 +93,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="Isabelly27Santos/imagem.png"  />
+  <img data-importer="image" height="200" src="imagem.png"  />
 </div>
 
 ###
