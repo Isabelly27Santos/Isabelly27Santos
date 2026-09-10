@@ -14,7 +14,7 @@ Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é r
 
 ✨ **`Apaixonada por tecnologia e sempre aprendendo algo novo`**
 
-<div data-importer="image" align="right">
+<div data-importer="image" align="right"  style="display: inline-block;>
   <img data-importer="image" height="200" src="imagem.png"  />
 </div>
 
