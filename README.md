@@ -12,9 +12,9 @@ Atualmente, estou aprofundando meus conhecimentos em HTML5, CSS3, JavaScript, My
 
 Hoje trabalho como Representante Pleno no Mercado Livre, mas o meu objetivo é realizar minha transição para a área de TI, atuando como desenvolvedora Front-end e Back-end.
 
-    </td>
+  </td>
 
-    <td width="30%" align="center">
+  <td width="30%" align="center">
       <img src="imagem.png" width="180">
     </td>
   </tr>
